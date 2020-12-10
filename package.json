@@ -10,6 +10,8 @@
   "author": "Bhavik Sejpal",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
     "requests": "^0.3.0"
   }
 }
