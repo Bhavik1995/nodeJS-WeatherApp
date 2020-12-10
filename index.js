@@ -1,7 +1,7 @@
 const http = require('http');
 var requests = require('requests');
 const fs = require('fs');
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 3000;
 
 const homeFile = fs.readFileSync("home.html","UTF8");
 
